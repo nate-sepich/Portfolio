@@ -9,17 +9,17 @@ Hello! I'm Nate Sepich, an aspiring AI Ops engineer.
 
 ## Projects
 
-### [Intelligent Meal Planning Application](#)
+### [Intelligent Meal Planning Application](https://github.com/nate-sepich/pantry-pal)
 
 - **Description**: Developed a CRUD API integrating with open-source government APIs to fetch food macro information.
 - **Technologies**: Python, RESTful API, AI for recommendation systems.
 
-### [OCR Betting Analysis App](#)
+### [OCR Betting Analysis App](https://github.com/nate-sepich/b.t.b)
 
 - **Description**: Created an OCR application to extract and analyze betting data.
 - **Technologies**: Python, OCR libraries, LLM integration.
 
-### [Graph-Based Knowledge Visualization Tool](#)
+### [Graph-Based Knowledge Visualization Tool](https://github.com/nate-sepich/quantum_cognition)
 
 - **Description**: Developed an application using Neo4j and LLMs to automate graph creation.
 - **Technologies**: Neo4j, LLM integration, Graph visualization libraries.

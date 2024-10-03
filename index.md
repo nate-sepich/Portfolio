@@ -10,7 +10,7 @@ Hello! I'm Nate Sepich, a Senior AI Ops Engineer with a strong background in int
 
 ### [Intelligent Meal Planning Application](https://github.com/nate-sepich/pantry-pal)
 
-- **Description**: Developed a CRUD API integrating with open-source government APIs to fetch food macro information.
+- **Description**: Developed a Simple UI, and CRUD API integrating with open-source government APIs to fetch food macro information.
 - **Technologies**: Python, RESTful API, AI for recommendation systems.
 
 ### [OCR Betting Analysis App](https://github.com/nate-sepich/b.t.b)
@@ -33,14 +33,14 @@ Senior Ops Engineer (P3)
 - Promoted AWS serverless best practices; liaised with AWS Technical Account Managers.
 - Implemented AI platform using Python, AWS resources, and CI/CD pipelines.
 
-Ops Engineer (P2)  
-**May 2023 – April 2024**
+AI Ops Engineer (P1 & P2)  
+**May 2022 – April 2024**
 
 - Developed foundational architecture for AI infrastructure.
 - Administered software services, including GitHub, Sonatype Nexus, and Jenkins.
 - Led onboarding and training for new team members on AI projects.
 
-AI Data Engineering Intern  
+AI Intern  
 **May 2021 – August 2021**
 
 - Modularized code into AWS Lambda functions to enable scalable software solutions.
@@ -55,7 +55,7 @@ Data Science Intern
 
 ## Education
 
-**M.S. in Industrial Engineering**  
+**M.S. in Industrial Engineering & Human Computer Interaction**  
 Iowa State University, **GPA**: 3.93/4.00  
 **Spring 2022**
 

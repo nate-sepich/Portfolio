@@ -34,6 +34,5 @@ Hello! I'm Nate Sepich, an aspiring AI Ops engineer.
 
 ## Contact
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: sepichnathan@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/nate-sepich/

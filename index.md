@@ -2,10 +2,9 @@
 layout: default
 title: Home
 ---
-
 # Welcome to My Portfolio
 
-Hello! I'm Nate Sepich, an aspiring AI Ops engineer.
+Hello! I'm Nate Sepich, a Senior AI Ops Engineer with a strong background in integrating AI technologies, automation, and DevOps principles.
 
 ## Projects
 
@@ -24,15 +23,56 @@ Hello! I'm Nate Sepich, an aspiring AI Ops engineer.
 - **Description**: Developed an application using Neo4j and LLMs to automate graph creation.
 - **Technologies**: Neo4j, LLM integration, Graph visualization libraries.
 
-## About Me
+## Work Experience
 
-- **Programming Languages**: Python, JavaScript, Java, C++.
-- **AI & Machine Learning**: TensorFlow, PyTorch, NLP, computer vision, LLMs.
-- **Databases**: MySQL, PostgreSQL, MongoDB, Neo4j.
-- **DevOps**: Docker, CI/CD pipelines.
-- **Project Management**: End-to-end project development, collaboration.
+### Collins Aerospace (Remote)  
+Senior Ops Engineer (P3)  
+**May 2024 – Present**
+
+- Led high-visibility projects integrating Generative AI chatbot features with an AI platform.
+- Promoted AWS serverless best practices; liaised with AWS Technical Account Managers.
+- Implemented AI platform using Python, AWS resources, and CI/CD pipelines.
+
+Ops Engineer (P2)  
+**May 2023 – April 2024**
+
+- Developed foundational architecture for AI infrastructure.
+- Administered software services, including GitHub, Sonatype Nexus, and Jenkins.
+- Led onboarding and training for new team members on AI projects.
+
+AI Data Engineering Intern  
+**May 2021 – August 2021**
+
+- Modularized code into AWS Lambda functions to enable scalable software solutions.
+- Implemented cloud management protocols, reducing costs by $3,000 monthly.
+
+### Principal Financial Group  
+Data Science Intern  
+**Summer 2019 - Summer 2020**
+
+- Developed a full-stack web app using AWS products to automate asset classification, reducing time from two weeks to five minutes.
+- Built Power BI dashboards for portfolio managers, optimizing decision-making processes.
+
+## Education
+
+**M.S. in Industrial Engineering**  
+Iowa State University, **GPA**: 3.93/4.00  
+**Spring 2022**
+
+**B.S. in Industrial Engineering**  
+Iowa State University, **GPA**: 3.55/4.00  
+**Dec 2020**
+
+## Skills & Technology
+
+- **Programming Languages**: Python, C#, Java, JavaScript, SQL, R.
+- **Cloud Platforms**: AWS (CloudFormation, Lambda, Step Functions, etc.), Azure.
+- **DevOps & CI/CD**: Jenkins, Docker, Terraform, GitHub.
+- **Data & AI**: TensorFlow, PyTorch, Neo4j, LLMs, NLP, computer vision.
+- **Web Development**: React.js, Streamlit.
+- **3D Modeling**: SolidWorks, Autodesk Suite.
 
 ## Contact
 
 - **Email**: sepichnathan@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/nate-sepich/
+- **LinkedIn**: [linkedin.com/in/nate-sepich](https://www.linkedin.com/in/nate-sepich/)

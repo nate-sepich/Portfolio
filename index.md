@@ -8,12 +8,7 @@ Hello! I'm Nate Sepich, a Senior AI Ops Engineer with a strong background in int
 
 ## Projects
 
-### [Intelligent Meal Planning Application](https://github.com/nate-sepich/pantry-pal)
-
-- **Description**: Developed a Simple UI, and CRUD API integrating with open-source government APIs to fetch food macro information.
-- **Technologies**: Python, RESTful API, AI for recommendation systems.
-
-### [OCR Betting Analysis App](https://github.com/nate-sepich/b.t.b)
+### [OCR Betting Analysis App (b.t.b)](https://github.com/nate-sepich/b.t.b)
 
 - **Description**: Created an OCR application to extract and analyze betting data.
 - **Technologies**: Python, OCR libraries, LLM integration.
@@ -22,6 +17,11 @@ Hello! I'm Nate Sepich, a Senior AI Ops Engineer with a strong background in int
 
 - **Description**: Developed an application using Neo4j and LLMs to automate graph creation.
 - **Technologies**: Neo4j, LLM integration, Graph visualization libraries.
+
+### [Intelligent Meal Planning Application](https://github.com/nate-sepich/pantry-pal)
+
+- **Description**: Developed a Simple UI, and CRUD API integrating with open-source government APIs to fetch food macro information.
+- **Technologies**: Python, RESTful API, AI for recommendation systems.
 
 ## Work Experience
 
@@ -71,6 +71,13 @@ Iowa State University, **GPA**: 3.55/4.00
 - **Data & AI**: TensorFlow, PyTorch, Neo4j, LLMs, NLP, computer vision.
 - **Web Development**: React.js, Streamlit.
 - **3D Modeling**: SolidWorks, Autodesk Suite.
+
+## Open Source Contributions
+
+### [ai-agile-team](https://github.com/jeanjerome/ai-agile-team)
+
+- **Description**: Provided devops support assisting with dependency management
+- **Technologies**: Python, OpenAI API, LangChain
 
 ## Contact
 

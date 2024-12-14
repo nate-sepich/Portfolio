@@ -81,16 +81,16 @@ Iowa State University, **GPA**: 3.55/4.00
   - **Inventors**: Stephen Gilbert, Eliot Winer, Jack Miller, Alex Renner, Nathan Sepich, Vinodh Sankaranthi, Chris Gallant, David Wehr, Rafael Radkowski, Cheng Song
   - **Link**: [View Patent](https://patents.justia.com/patent/11587315)
 
-## [Publications] (https://www.researchgate.net/profile/Nathan-Sepich)
+## [Publications](https://www.researchgate.net/profile/Nathan-Sepich)
 
 - **The impact of task workload on cybersickness**: [Master's Thesis](https://dr.lib.iastate.edu/entities/publication/778e1fd4-c3d8-4723-94ff-f27cc8c91413) 
   - **Journal/Conference**: Frontiers in Virtual Reality
   - **Date**: August 2022
-  - **Link**: https://doi.org/10.3389/frvir.2022.943409
+  - **Link**: https(://doi.org/10.3389/frvir.2022.943409)
 - **Video Game Interface Design Patterns to Facilitate Human-Agent Teaming**
   - **Journal/Conference**: International Journal of Human-Computer Interaction
   - **Date**: October 2023
-  - **Link**: https://doi.org/10.1080/10447318.2023.2262824
+  - **Link**: (https://doi.org/10.1080/10447318.2023.2262824)
 - [See 5+ More](https://www.researchgate.net/profile/Nathan-Sepich)
 
 ## Certifications

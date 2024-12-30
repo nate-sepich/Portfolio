@@ -18,10 +18,10 @@ Hello! I'm Nate Sepich, a Senior AI Ops Engineer with a strong background in int
 - **Description**: Developed an application using Neo4j and LLMs to automate graph creation.
 - **Technologies**: Neo4j, LLM integration, Graph visualization libraries.
 
-### [Intelligent Meal Planning Application](https://github.com/nate-sepich/pantry-pal)
+### [Strava Visualization](https://github.com/nate-sepich/strava-gh-viz)
 
-- **Description**: Developed a Simple UI, and CRUD API integrating with open-source government APIs to fetch food macro information.
-- **Technologies**: Python, RESTful API, AI for recommendation systems.
+- **Description**: Built an interactive Strava activity visualization tool with a heatmap UI to showcase running stats over the last year. Integrated serverless functions for real-time data fetching and fallback to example data for non-authorized users.
+- **Technologies**: JavaScript (for the front-end), HTML, CSS, OAuth2, Strava API, JavaScript (serverless functions via Netlify).
 
 ## Work Experience
 

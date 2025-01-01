@@ -8,6 +8,11 @@ Hello! I'm Nate Sepich, a Senior AI Ops Engineer with a strong background in int
 
 ## Projects
 
+### [Strava -- Running Activity Heatmap Web App](https://github.com/nate-sepich/strava-gh-viz) [Try it!](https://nate-sepich.github.io/strava-gh-viz/)
+
+- **Description**: Built an interactive Strava activity visualization tool with a heatmap UI to showcase running stats over the last year. Integrated serverless functions for real-time data fetching and fallback to example data for non-authorized users.
+- **Technologies**: JavaScript (for the front-end), HTML, CSS, OAuth2, Strava API, JavaScript (serverless functions via Netlify).
+
 ### [OCR Betting Analysis App (b.t.b)](https://github.com/nate-sepich/b.t.b)
 
 - **Description**: Created an OCR application to extract and analyze betting data.
@@ -17,11 +22,6 @@ Hello! I'm Nate Sepich, a Senior AI Ops Engineer with a strong background in int
 
 - **Description**: Developed an application using Neo4j and LLMs to automate graph creation.
 - **Technologies**: Neo4j, LLM integration, Graph visualization libraries.
-
-### [Strava Visualization](https://github.com/nate-sepich/strava-gh-viz)
-
-- **Description**: Built an interactive Strava activity visualization tool with a heatmap UI to showcase running stats over the last year. Integrated serverless functions for real-time data fetching and fallback to example data for non-authorized users.
-- **Technologies**: JavaScript (for the front-end), HTML, CSS, OAuth2, Strava API, JavaScript (serverless functions via Netlify).
 
 ## Work Experience
 

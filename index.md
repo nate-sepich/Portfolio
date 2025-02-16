@@ -4,9 +4,14 @@ title: Home
 ---
 # Welcome to My Portfolio
 
-Hello! I'm Nate Sepich, a Senior AI Ops Engineer with a strong background in integrating AI technologies, automation, and DevOps principles.
+Hello! I'm Nate Sepich, a Senior AI Engineer with a strong background in integrating AI technologies, automation, and DevOps principles.
 
 ## Projects
+
+### [PantryPal](https://github.com/nate-sepich/pantrypal)
+
+- **Description**: Developed a microservices-based AI-powered kitchen management system that combines inventory tracking with intelligent recipe generation through Ollama LLM integration. Demonstrates modern software architecture and AI integration patterns.
+- **Technologies**: Python, FastAPI, Streamlit, Docker, Ollama LLM, USDA FoodData Central API, JWT-based authentication.
 
 ### [Strava -- Running Activity Heatmap Web App](https://github.com/nate-sepich/strava-gh-viz) [Try it!](https://nate-sepich.github.io/strava-gh-viz/)
 

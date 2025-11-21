@@ -20,7 +20,7 @@ AI Platform Engineer with extensive experience integrating AI, automation, and D
 - **Description**: Developed a microservices-based AI-powered kitchen management system that combines inventory tracking with intelligent recipe generation through Ollama LLM integration.
 - **Technologies**: Python, FastAPI, Streamlit, Docker, Ollama LLM, USDA FoodData Central API, JWT authentication.
 
-### [FantasyTopHuds X Bot](https://github.com/nate-sepich/FantasyTopHuds-Bot){:target="_blank"}
+### [FantasyTopHuds X Bot](https://github.com/NSEP-0/fantasy-top-huds-x){:target="_blank"}
 - **Description**: Designed and implemented a simple call and response bot on the X platform.
 - **Technologies**: JavaScript, AWS Lambda, DynamoDB, CloudFormation (SAM)
 

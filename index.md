@@ -12,7 +12,7 @@ AI Platform Engineer with extensive experience integrating AI, automation, and D
 
 ## Projects
 
-### [ParSix](https://github.com/nate-sepich/ParSix){:target="_blank"}
+### [ParSix](https://apps.apple.com/us/app/parsix/id6751127402){:target="_blank"}
 - **Description**: Developed an iOS app that gamifies Wordle puzzles into competitive tournaments with automated penalty management, real-time leaderboards, and metric reporting.
 - **Technologies**: Python, FastAPI, AWS Lambda, DynamoDB, EventBridge, SwiftUI, iOS, AWS SAM, API Gateway, SES, CloudWatch.
 

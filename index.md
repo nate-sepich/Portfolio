@@ -174,7 +174,7 @@ title: Home
 
   <div class="hero">
     <h1>Nate Sepich</h1>
-    <div class="role">&lt; AI Platform Engineer /&gt;</div>
+    <div class="role">&lt; Senior Software Engineer /&gt;</div>
     <p>Building scalable, secure solutions that drive measurable performance improvements. Expert in AI integration, Automation, and DevOps.</p>
     
     <div class="social-links">
@@ -253,6 +253,19 @@ title: Home
 
   <h2>Work Experience</h2>
   <div class="timeline">
+
+    <div class="timeline-item">
+      <div class="timeline-marker"></div>
+      <div class="job-header">
+        <span class="job-title">Senior Software Engineer</span>
+        <span class="job-company">Lean TECHniques</span>
+      </div>
+      <div class="job-date">January 2026 – Present</div>
+      <ul class="job-details">
+        <li>Consulting and developing scalable software and AI solutions for enterprise clients.</li>
+        <li>(Add specific achievements/responsibilities here as they develop)</li>
+      </ul>
+    </div>
     
     <div class="timeline-item">
       <div class="timeline-marker"></div>
@@ -260,7 +273,7 @@ title: Home
         <span class="job-title">AI Platform Engineer (P3)</span>
         <span class="job-company">RTX / Collins Aerospace</span>
       </div>
-      <div class="job-date">July 2025 – Present</div>
+      <div class="job-date">July 2025 – January 2026</div>
       <ul class="job-details">
         <li>Drove enterprise AI platform enablement across AWS/Azure, standardizing access patterns.</li>
         <li>Implemented compliant logging/observability pipelines and automated deployments (IaC/GitOps).</li>
@@ -341,6 +354,10 @@ title: Home
     <div>
       <h2>Certifications & Patents</h2>
       <ul style="list-style: none; padding: 0;">
+        <li style="margin-bottom: 15px;">
+          <strong style="color: var(--text-primary);">Microsoft Certified: Azure AI Engineer Associate (AI-102)</strong>
+          <div style="color: var(--text-secondary); font-size: 0.9rem;">Feb 2026</div>
+        </li>
         <li style="margin-bottom: 15px;">
           <strong style="color: var(--text-primary);">AWS Certified Cloud Practitioner</strong>
           <div style="color: var(--text-secondary); font-size: 0.9rem;">April 2025</div>

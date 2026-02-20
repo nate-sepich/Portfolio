@@ -263,7 +263,6 @@ title: Home
       <div class="job-date">January 2026 – Present</div>
       <ul class="job-details">
         <li>Consulting and developing scalable software and AI solutions for enterprise clients.</li>
-        <li>(Add specific achievements/responsibilities here as they develop)</li>
       </ul>
     </div>
     

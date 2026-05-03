@@ -310,6 +310,20 @@ title: Home
     <div class="timeline-item">
       <div class="timeline-marker"></div>
       <div class="job-header">
+        <span class="job-title">Graduate Research Assistant</span>
+        <span class="job-company">Iowa State University</span>
+      </div>
+      <div class="job-date">2020 – 2022</div>
+      <ul class="job-details">
+        <li>Conducted sponsored research with John Deere, Boeing, Army Research Lab, Air Force Research Lab, and NSF.</li>
+        <li>Published 5 peer-reviewed papers in HCI, VR, and human-agent teaming.</li>
+        <li>Led software development for technical project objectives; managed undergraduate research teams.</li>
+      </ul>
+    </div>
+
+    <div class="timeline-item">
+      <div class="timeline-marker"></div>
+      <div class="job-header">
         <span class="job-title">Data Science Intern</span>
         <span class="job-company">Principal Financial Group</span>
       </div>
@@ -367,7 +381,7 @@ title: Home
         </li>
         <li>
           <strong style="color: var(--text-primary);">Patent US 11587315</strong>
-          <div style="color: var(--text-secondary); font-size: 0.9rem;">AR Measuring of Equipment (Deere & Co)</div>
+          <div style="color: var(--text-secondary); font-size: 0.9rem;">AR Measuring of Equipment — originated from Iowa State / Deere & Co sponsored research</div>
           <a href="https://patents.justia.com/patent/11587315" target="_blank" style="font-size: 0.85rem;">View Patent &rarr;</a>
         </li>
       </ul>
@@ -376,9 +390,11 @@ title: Home
 
   <h2>Selected Publications</h2>
   <ul style="color: var(--text-secondary);">
-    <li><strong>The Impact of Task Workload on Cybersickness</strong> - Frontiers in Virtual Reality (2022)</li>
-    <li><strong>Video Game Interface Design Patterns...</strong> - Intl. Journal of HCI (2023)</li>
-    <li><strong>Predicting Cybersickness...</strong> - Computers in Human Behavior (2023)</li>
+    <li><a href="https://journals.sagepub.com/doi/10.1177/1071181321651185" target="_blank"><strong>The Relationship Between Personality, Recalled Cybersickness Severity, and Recalled Cybersickness Recovery Time</strong></a> - HFES Annual Meeting (2021)</li>
+    <li><a href="https://doi.org/10.1177/1071181321651188" target="_blank"><strong>Human-Agent Team Game Analysis Framework: Case Studies</strong></a> - HFES Annual Meeting (2021)</li>
+    <li><a href="https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2022.943409/full" target="_blank"><strong>The Impact of Task Workload on Cybersickness</strong></a> - Frontiers in Virtual Reality (2022)</li>
+    <li><a href="https://www.tandfonline.com/doi/abs/10.1080/10447318.2023.2262824" target="_blank"><strong>Video Game Interface Design Patterns to Facilitate Human-Agent Teaming</strong></a> - Identified 25 design patterns for HAT interfaces. Intl. Journal of HCI (2023)</li>
+    <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0747563223001516" target="_blank"><strong>Predicting Cybersickness Using Individual and Task Characteristics</strong></a> - Computers in Human Behavior (2023)</li>
   </ul>
 
 </div>

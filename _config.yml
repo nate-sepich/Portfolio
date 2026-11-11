@@ -1,5 +1,7 @@
-title: Portfolio
-description: Nate Sepich's Portfolio
+title: Nate Sepich
+description: Software engineer who builds AI platforms and cloud systems that hold up in production.
+url: https://nate-sepich.github.io
+baseurl: /Portfolio
 # remote_theme: pages-themes/midnight@v0.2.0  # Commented out to allow custom styling
 plugins:
 - jekyll-remote-theme
